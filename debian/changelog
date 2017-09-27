@@ -1,3 +1,10 @@
+ca-certificates (20170717~16.04.1) xenial-security; urgency=medium
+
+  * Update ca-certificates database to 20170717:
+    - backport changes from the Ubuntu 17.10 20170717 package
+
+ -- Marc Deslauriers <marc.deslauriers@ubuntu.com>  Wed, 27 Sep 2017 11:09:45 -0400
+
 ca-certificates (20160104ubuntu1) xenial; urgency=medium
 
   * Ship changelog to explain dropped mozilla-1024 certs.
